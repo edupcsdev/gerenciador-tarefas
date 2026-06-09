@@ -22,7 +22,7 @@ Um sistema dinâmico, responsivo e moderno para gerenciamento de tarefas cotidia
 
 ```text
 ├── CSS/
-│   └── style.css        # Estilizações customizadas e classes de cor
+│   └── style.css        # Estilizações e classes de cor
 ├── js/
 │   └── app.js           # Lógica, validações e manipulação do DOM
 ├── index.html           # Estrutura principal do sistema
